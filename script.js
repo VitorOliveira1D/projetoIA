@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Se a inteligência artificial alcançar um nível de autoconsciência, você acha que ela poderia decidir agir contra os interesses humanos? Ou seria capaz de desenvolver suas próprias motivações e objetivos?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
+                texto: "Vejo possibilidades e Isso é assustador!",
                 afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
-                texto: "Isso é maravilhoso!",
+                texto: "Isso é coisa de histórias e quadrinhos!",
                 afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
