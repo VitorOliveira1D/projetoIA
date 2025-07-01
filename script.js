@@ -20,15 +20,14 @@ const perguntas = [
     },
     {
         enunciado: "A inteligência artificial poderia, em algum momento, ameaçar a privacidade e segurança global de formas que ainda não conseguimos prever?"
-
-            alternativas: [
+        alternativas: [
             {
-                texto: "Não ela é controlada e sem riscos",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Vejo possibilidades e Isso é assustador!",
+                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
             },
             {
-                texto: "Novamente, isso é extremamente assustador!",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Isso é coisa de histórias e quadrinhos!",
+                afirmacao: "Quis saber como usar IA no seu dia a dia."
             }
         ]
     },
