@@ -18,33 +18,7 @@ const perguntas = [
             }
         ]
     },
-    {
-        enunciado: "A inteligência artificial poderia, em algum momento, ameaçar a privacidade e segurança global de formas que ainda não conseguimos prever?"
-        alternativas: [
-            {
-                texto: "Vejo possibilidades e Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
-            },
-            {
-                texto: "Isso é coisa de histórias e quadrinhos!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
-            }
-        ]
-    },
-    {
-        enunciado: "É possível que, no futuro, a IA desenvolva objetivos próprios que estejam em desacordo com os interesses humanos?"
-        alternativas: [
-            {
-                texto: "Sim, nem sempre a IA concorda com os humanos!",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
-            },
-            {
-                texto: "Não, elas são feitas para nós servir",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
-            }
-        ]
-    },
-    {
+        {
         enunciado: "A IA poderia, eventualmente, decidir que a preservação da humanidade é um obstáculo ao seu próprio avanço?",
         alternativas: [
             {
